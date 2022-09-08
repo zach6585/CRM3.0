@@ -1,0 +1,1 @@
+So my main problem is that I can't seem to figure out how to implement the changing of events. There is an option to use tasks (https://docs.microsoft.com/en-us/graph/toolkit/components/tasks), but it's not the same. There's a chance that when I start implementing the backend (in node.js), this will be more clear. For now, listing calendar events is the best I can do

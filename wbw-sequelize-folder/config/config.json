@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "zach6585",
+    "password": null,
+    "database": "sequelize_setup",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "zach6585",
+    "password": null,
+    "database": "sequelize_setup",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "zach6585",
+    "password": null,
+    "database": "sequelize_setup",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
+
+
+
+
